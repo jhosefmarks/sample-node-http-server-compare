@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jhosefmarks/sample-node-http-server-compare/issues"
   },
-  "homepage": "https://github.com/jhosefmarks/sample-node-http-server-compare#readme"
+  "homepage": "https://github.com/jhosefmarks/sample-node-http-server-compare#readme",
+  "dependencies": {
+    "restify": "^8.3.1"
+  }
 }
