@@ -35,3 +35,15 @@
 - http://localhost:3002
 - http://localhost:3002/profile
 - http://localhost:3002/invalid
+
+## Koa Http Server
+
+### Run server
+
+`node index-koa.js`
+
+### Open your favorite browser
+
+- http://localhost:3003
+- http://localhost:3003/profile
+- http://localhost:3003/invalid
