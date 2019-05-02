@@ -1,5 +1,5 @@
-const restify = require('restify');
-const server = restify.createServer();
+const express = require('express');
+const server = express();
 
 server.get('/', (req, res) => {
   res.send('Home');
@@ -13,6 +13,6 @@ server.post('/profile', (req, res) => {
   res.send('New profile');
 });
 
-server.listen(3001, () => {
-  console.log('Restify Server HTTP listening on port: 3001');
+server.listen(3002, () => {
+  console.log('Express Server HTTP listening on port: 3002');
 });
