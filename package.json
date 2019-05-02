@@ -1,0 +1,27 @@
+{
+  "name": "sample-node-http-server-compare",
+  "version": "1.0.0",
+  "description": "Sample for compare node`s servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhosefmarks/sample-node-http-server-compare.git"
+  },
+  "keywords": [
+    "node",
+    "server",
+    "koa",
+    "restify",
+    "express",
+    "http-server"
+  ],
+  "author": "Jhosef Marks de Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhosefmarks/sample-node-http-server-compare/issues"
+  },
+  "homepage": "https://github.com/jhosefmarks/sample-node-http-server-compare#readme"
+}
