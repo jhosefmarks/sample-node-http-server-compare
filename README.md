@@ -1,4 +1,4 @@
-# Sample for compare node`s servers.
+# Sample to compare node servers.
 
 ## Http Server
 
